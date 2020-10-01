@@ -15,7 +15,7 @@ const Input = ({ label, value, onChangeText, placeholder, secureTextEntry }) => 
               style={inputStyle}
               value={value}
               onChangeText={onChangeText}
-              placeholderTextColor= "#fff"
+              placeholderTextColor= "#075E54"
             />
       </View>
   );
